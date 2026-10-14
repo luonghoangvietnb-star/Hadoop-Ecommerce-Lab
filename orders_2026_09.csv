@@ -1,0 +1,6 @@
+transaction_id,order_date,order_time,province,category,channel,quantity,unit_price,amount,status,shipping_days
+TX001,2026-09-01,08:30,Ha Noi,Electronics,Web,1,3400000,3400000,SUCCESS,2
+TX002,2026-09-01,09:00,Da Nang,Fashion,App,2,260000,520000,SUCCESS,3
+TX003,2026-09-02,10:30,Can Tho,Grocery,Web,1,180000,180000,FAILED,4
+TX004,2026-09-02,11:00,Lam Dong,Book,App,1,250000,250000,SUCCESS,2
+TX005,2026-09-03,13:30,Ha Noi,Electronics,Web,1,2500000,2500000,SUCCESS,1
